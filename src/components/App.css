@@ -1,0 +1,9 @@
+.container {
+    border-style: solid;
+    border-color: rgb(115, 66, 47);
+    background-color: rgb(236, 229, 219);
+  }
+  .card-body {
+    border-style: solid;
+    border-color: dark;
+  }
